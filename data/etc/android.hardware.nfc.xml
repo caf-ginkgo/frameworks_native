@@ -19,4 +19,5 @@
 <permissions>
     <feature name="android.hardware.nfc" />
     <feature name="android.hardware.nfc.any" />
+    <feature name="android.sofware.nfc.beam" />
 </permissions>
